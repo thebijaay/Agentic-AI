@@ -1,0 +1,8 @@
+AgenticAIProject/
+│
+├─ main.py
+├─ agent.py
+├─ environment.py
+├─ utils.py
+├─ requirements.txt
+└─ README.md
