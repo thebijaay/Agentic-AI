@@ -1,3 +1,8 @@
-# Required Python packages
-numpy
-pandas
+langchain
+langchain-openai
+langchain-classic
+langchain-community
+pypdf
+faiss-cpu
+sentence-transformers
+python-dotenv
