@@ -100,3 +100,7 @@ Paris
 ├── requirements.txt
 └── README.md
 ```
+Jay Prasad Majhi
+System Administrator / IT Manager
+Trio IT
+it@jayprasad.com.np
